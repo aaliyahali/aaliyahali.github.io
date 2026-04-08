@@ -24,20 +24,7 @@ author: "Aaliyah Ali"
 
 <div id="plot1"></div>
 
-**What is being visualized:**  
-This horizontal bar chart displays the 20 most common professional license types issued in Illinois, ranked from most to least frequent.
-
-**Design choices – encodings:**  
-The x-axis represents license counts (quantitative), and the y-axis represents license type (nominal), sorted descending.
-
-**Design choices – colormap:**  
-Uses `tealblues` sequential color scheme to reinforce magnitude.
-
-**Data transformations:**  
-Used `value_counts()` on `License Type` and selected top 20.
-
-**Interactivity:**  
-Click to highlight bars + tooltip on hover.
+Description of plot
 
 ---
 
@@ -45,22 +32,7 @@ Click to highlight bars + tooltip on hover.
 
 <div id="plot2"></div>
 
-**What is being visualized:**  
-Normalized stacked bar chart showing proportions of license statuses across top 10 license types.
-
-**Design choices – encodings:**  
-- x-axis: percentage (normalized)  
-- y-axis: license type  
-- color: license status  
-
-**Design choices – colormap:**  
-Uses `tableau10` categorical scheme.
-
-**Data transformations:**  
-Grouped by `License Type` and `License Status`, filtered to top categories.
-
-**Interactivity:**  
-Hover shows raw counts behind proportions.
+description of plot
 
 ---
 
