@@ -69,6 +69,6 @@ Hover shows raw counts behind proportions.
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <script>
-  vegaEmbed('#plot1', 'plot1.json');
-  vegaEmbed('#plot2', 'plot2.json');
+  vegaEmbed('#plot1', '/plot1.json');
+  vegaEmbed('#plot2', '/plot2.json');
 </script>
