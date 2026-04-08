@@ -1,7 +1,7 @@
 ---
 layout: post
-title: IS445: Homework 5
-author: Aaliyah Ali
+title: "IS445: Homework 5"
+author: "Aaliyah Ali"
 ---
 
 ## Homework 5
