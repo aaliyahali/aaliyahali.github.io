@@ -13,7 +13,7 @@ author: Aaliyah ALi
 </div>
  
 <div class="right">
-<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/licenses-homework.ipynb">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/YOUR_USERNAME/aaliyahali/blob/main/licenses-homework.ipynb">
   The Analysis
 </a>
 </div>
@@ -22,7 +22,7 @@ author: Aaliyah ALi
  
 ## Chart 1: Top 20 Illinois Professional License Types
  
-<vegachart schema-url="{{ site.baseurl }}/assets/json/plot1.json" style="width: 100%"></vegachart>
+<div id="plot1"></div>
  
 **What is being visualized:** This horizontal bar chart displays the 20 most common professional license types issued in Illinois, ranked from most to least frequent. Each bar represents one license category (e.g., Registered Nurse, Real Estate Broker), and the bar length encodes the total count of licenses held in that category. This gives a quick overview of which professions are most heavily licensed in the state.
  
@@ -38,7 +38,7 @@ author: Aaliyah ALi
  
 ## Chart 2: License Status Breakdown for Top 10 License Types
  
-<vegachart schema-url="{{ site.baseurl }}/assets/json/plot2.json" style="width: 100%"></vegachart>
+<div id="plot1"></div>
  
 **What is being visualized:** This normalized stacked bar chart shows the proportional breakdown of license statuses — such as Active, Expired, or Inactive — across the top 10 most common professional license types in Illinois. Rather than showing raw counts, each bar is scaled to 100% so the viewer can directly compare the composition of statuses across very different-sized professions. For example, it reveals whether certain license types have a higher proportion of expired licenses relative to others.
  
@@ -49,4 +49,10 @@ author: Aaliyah ALi
 **Data transformations:** In the notebook, I first filtered the dataframe to only rows whose `License Type` is in the top 10 list derived from Plot 1. I then used `groupby(['License Type', 'License Status']).size()` to count combinations, and further filtered to keep only the 5 most common status values (summed across all license types). This two-step filtering was necessary to keep the chart readable — the raw data contains many rare status strings that would fragment the stacked bars into thin, illegible slivers.
  
 **Interactivity (Plot 1 discussion continued):** The interactivity in Plot 1 — click-to-highlight — directly improves clarity by allowing the viewer to isolate one license type from a crowded ranking of 20. In a static chart, it can be hard to compare a bar in the middle of the list against one at the top. With click selection, the user can highlight each bar in sequence and read the tooltip for an exact count, making the chart serve both an overview role and a detail-on-demand role within a single view. The tooltip on Plot 2 further supports detail-on-demand: hovering reveals the raw count behind each proportional segment, so the normalized view does not hide absolute magnitudes.
+
+
+<script>
+    vegaEmbed('#plot1', 'plot1.json');
+    vegaEmbed('#plot2', 'plot2.json');
+  </script>
  
