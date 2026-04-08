@@ -13,7 +13,7 @@ author: "Aaliyah Ali"
   </a>
 
   <a style="padding:10px 16px; border:1px solid #0d6efd; color:#0d6efd; text-decoration:none; border-radius:6px;"
-     href="https://github.com/aaliyahali/aaliyahali/blob/main/licenses-homework.ipynb">
+     href="https://github.com/aaliyahali/aaliyahali.github.io/blob/95bacf18e66a14654f085d4a6c0370e8f096813d/licenses-homework.ipynb">
     The Analysis
   </a>
 </div>
