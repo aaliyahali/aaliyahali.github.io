@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0/build/vega.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.2/build/vega-lite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.1.0/build/vega-embed.min.js"></script>
+    <title>Bigfoot Sightings</title>
+    <style>
+      body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; }
+      h1 { color: #333; }
+      h2 { color: #555; margin-top: 40px; }
+      .buttons { margin: 20px 0; }
+      .btn { display: inline-block; margin-right: 10px; padding: 8px 16px;
+             background: white; border: 2px solid #0066cc; color: #0066cc;
+             text-decoration: none; border-radius: 4px; }
+      .btn:hover { background: #0066cc; color: white; }
+    </style>
+  </head>
+  <body>
+    <h1>Bigfoot Sightings Visualizations</h1>
+
+    <div class="buttons">
+      <a class="btn" href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv">The Data</a>
+      <a class="btn" href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/hw5.ipynb">The Analysis</a>
+    </div>
+
+    <h2>Chart 1: Bigfoot Sightings by State and Classification</h2>
+    <p>
+      This bar chart showcases the number of Bigfoot sightings reported within each state in the US, with each being further
+      broken down by their report classification. Class A reports involve direct sightings with
+      clear evidence, while Class B and Class C reports involve more indirect evidence such
+      as sounds or tracks. The state of each reporting is placed on the x-axis as a nominal variable, and the sightings 
+      are placed in descending order by total count. This is to ensure that the states with the most to least sightings are clearly visible. 
+      Additionally, the actual count of the sightings is placed on the y-axis as a quantitative variable. The color encoding
+      was done using the Tableau10 color scheme for the different classification labels, which easily allows for the different categories to be visible amongst the sightings of each state. 
+      The colors are extremely distinct which make each class easy to tell apart at a glance. Also, before any
+      plotting was conducted, any rows that were missing either a classification or state value were dropped to avoid
+      gaps in the chart. This chart is also interactive; if you click on a classification in the
+      legend, it highlights only that class across all states and grays out the others. This makes it especially useful to focus on one report classification type and compare it across the US.
+    </p>
+    <div id="chart1"></div>
+
+    <h2>Chart 2: Bigfoot Sightings Over Time by Season</h2>
+    <p>
+      This line chart shows how the number of Bigfoot sighting reports has changed from
+      1970 to the present, which is further broken down by season. The year is placed on the x-axis as a
+      quantitative variable, and the sighting count is placed on the y-axis. Each line
+      represents a season, which is color coded using the Set2 scheme, which has once again clear color differentiations in its hues.
+      In terms of preprocesssing, the raw date column was transformed into a proper datetime format and the year was extracted. Points are included on each line
+      so individual year values are easier to read, and the tooltip will show the exact year,
+      season, and count if the user hovers over it. The observations with an 'unknown' season was removed, as those made up less than 1% of the total dataset and were unnecessary for the overall message of the viusalization. 
+    </p>
+    <div id="chart2"></div>
+
+  </body>
+  <script>
+    vegaEmbed('#chart1', 'chart1.json');
+    vegaEmbed('#chart2', 'chart2.json');
+  </script>
+</html>
