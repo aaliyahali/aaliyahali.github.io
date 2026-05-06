@@ -1,0 +1,156 @@
+brand_name,indication,disease,disease_category,year,women,white,black,asian,other,hispanic,us_only,age_65,age_75,age_80
+Addyi,"Treatment of acquired, generalized hypoactive sexual desire disorder (HSDD) in premenopausal women","Acquired, Generalized Hypoactive Sexual Desire Disorder",Other,2015,100.0,89.0,8.0,1.0,2.0,,,0.0,0.0,0.0
+Alecensa,For the treatment of metastatic non-small cell lung cancer,Metastatic Non-Small Cell Lung Cancer,Cancer,2015,55.0,74.0,2.0,18.0,7.0,,,14.0,4.0,1.0
+Aristada,Treatment of schizophrenia,Schizophrenia,Neurological,2015,32.0,47.0,40.0,13.0,1.0,,,0.0,0.0,0.0
+Avycaz,Treatment of complicated intra-abdominal infection (abbreviated as cIAI),Complicated Intra-Abdominal Infection,Infectious Disease,2015,26.0,60.0,1.0,27.0,12.0,,,11.0,8.0,4.0
+Avycaz,Treatment of complicated urinary tract infection (abbreviated as cUTI),Complicated Urinary Tract Infection,Infectious Disease,2015,74.0,60.0,5.0,10.0,25.0,,,17.0,4.0,3.0
+Bridion,For the reversal of the effects of certain neuromuscular blocking agents,Neuromuscular Blockade Reversal,Neurological,2015,52.0,84.0,3.0,12.0,1.0,,,29.0,1.0,1.0
+Cholbam,For treatment of bile acid synthesis disorders due to single enzyme defects,Bile Acid Synthesis Disorders,Other,2015,43.0,61.0,11.0,7.0,20.0,,,,,
+Cholbam,"For treatment of peroxisomal disorders, including Zellweger spectrum disorders",Peroxisomal Disorders,Immune / Inflammatory,2015,33.0,83.0,0.0,0.0,17.0,,,,,
+Corlanor,To reduce hospitalization from worsening heart failure.,Heart Failure,Cardiovascular,2015,24.0,89.0,1.0,8.0,2.0,,,38.0,11.0,3.0
+Cosentyx,Treatment of moderate to severe plaque psoriasis in adults who do not respond well to medication applied directly to the skin,Moderate To Severe Plaque Psoriasis,Immune / Inflammatory,2015,30.0,68.0,1.0,22.0,9.0,,,8.0,1.0,1.0
+Cotellic,Part of combination treatment melanoma,Melanoma,Cancer,2015,42.0,93.0,,,7.0,,,27.0,9.0,3.0
+Cresemba,Treatment of invasive aspergillosis,Invasive Aspergillosis,Other,2015,40.0,78.0,1.0,21.0,1.0,,,24.0,5.0,1.0
+Cresemba,Treatment of invasive mucormycosis,Invasive Mucormycosis,Other,2015,19.0,68.0,11.0,22.0,0.0,,,14.0,8.0,0.0
+Daklinza,Treatment of chronic Hepatitis C genotype 3 infection,Chronic Hepatitis C Genotype 3 Infection,Infectious Disease,2015,41.0,90.0,4.0,5.0,1.0,,,7.0,0.0,0.0
+Darzalex,Treatment of multiple myeloma,Multiple Myeloma,Cancer,2015,46.0,76.0,10.0,6.0,8.0,,,45.0,10.0,3.0
+Empliciti,Treatment of multiple myeloma,Multiple Myeloma,Cancer,2015,40.0,84.0,4.0,10.0,2.0,,,57.0,20.0,7.0
+Entresto,Treatment of heart failure,Heart Failure,Cardiovascular,2015,22.0,66.0,5.0,18.0,11.0,,,49.0,19.0,7.0
+Farydak,Treatment of multiple myeloma,Multiple Myeloma,Cancer,2015,48.0,63.0,3.0,33.0,1.0,,,35.0,5.0,0.0
+Genvoya†,Complete regimen for the treatment of HIV-1 in adults and children 12 years of age and older.,Hiv-1,Infectious Disease,2015,48.0,0.0,83.0,17.0,0.0,,,0.0,0.0,0.0
+Genvoya‡,Complete regimen for the treatment of HIV-1 in adults and children 12 years of age and older.,Hiv-1,Infectious Disease,2015,13.0,61.0,23.0,9.0,7.0,,,3.0,1.0,1.0
+Ibrance,"Treatment of a specific form of advanced breast cancer called ER-positive, HER2-negative (ER+/HER-) breast cancer in women who have gone through menopause (post-menopausal)",Breast Cancer (Er+/Her2-),Cancer,2015,100.0,90.0,1.0,6.0,3.0,,,46.0,9.0,3.0
+Kanuma(I),Treatment of Lysosomal Acid Lipase (LAL) deficiency,Lysosomal Acid Lipase Deficiency,Metabolic / Genetic,2015,44.0,44.0,11.0,11.0,33.0,,,0.0,0.0,0.0
+Kanuma(Ii),Treatment of Lysosomal Acid Lipase (LAL) deficiency,Lysosomal Acid Lipase Deficiency,Metabolic / Genetic,2015,50.0,83.0,2.0,5.0,11.0,,,0.0,0.0,0.0
+Kengreal,For prevention of coronary artery blood clot formation in patients undergoing PCI,Pci-Related Thrombosis Prevention,Cardiovascular,2015,28.0,94.0,3.0,3.0,1.0,,,48.0,18.0,8.0
+Kybella,Treatment for double chin,Double Chin,Other,2015,85.0,87.0,8.0,2.0,3.0,,,1.0,0.0,0.0
+Lenvima,"Treatment of progressive, differentiated thyroid cancer (DTC) that can no longer be treated with radioactive iodine","Progressive, Differentiated Thyroid Cancer",Cancer,2015,49.0,79.0,2.0,18.0,1.0,,,40.0,10.0,4.0
+Lonsurf,Treatment of advanced colorectal cancer,Advanced Colorectal Cancer,Cancer,2015,39.0,58.0,1.0,35.0,7.0,,,44.0,8.0,1.0
+Natpara,For control of hypocalcemia along with calcium and vitamin D in adults with hypoparathyroidism,Hypoparathyroidism,Metabolic / Genetic,2015,79.0,96.0,1.0,2.0,2.0,,,6.0,1.0,1.0
+Ninlaro,Treatment of multiple myeloma,Multiple Myeloma,Cancer,2015,43.0,85.0,2.0,9.0,5.0,,,58.0,2.0,1.0
+Nucala,For the treatment of a specific type of severe asthma (called eosinophilic phenotype asthma),Eosinophilic Asthma,Immune / Inflammatory,2015,59.0,85.0,3.0,11.0,1.0,,,9.0,10.0,3.0
+Odomzo,Treatment of locally advanced basal cell carcinoma,Locally Advanced Basal Cell Carcinoma,Cancer,2015,37.0,94.0,1.0,0.0,6.0,,,54.0,34.0,23.0
+Orkambi,Treatment of cystic fibrosis,Cystic Fibrosis,Other,2015,49.0,99.0,0.0,0.0,1.0,,,0.0,0.0,0.0
+Portrazza,For the treatment of metastatic squamous non-small cell lung cancer,Metastatic Squamous Non-Small Cell Lung Cancer,Cancer,2015,17.0,84.0,1.0,8.0,8.0,,,39.0,4.0,1.0
+Praluent,Treatment of certain patients with high cholesterol,Hypercholesterolemia,Cardiovascular,2015,40.0,90.0,4.0,3.0,3.0,,,32.0,6.0,1.0
+Praxbind,Reversal of the anticoagulant effects of Pradaxa during emergency situations or when there is a need to reverse its blood-thinning effects.,Anticoagulation Reversal,Cardiovascular,2015,47.0,85.0,1.0,7.0,7.0,,,90.0,60.0,44.0
+Repatha††,Treatment of certain patients with high cholesterol,Hypercholesterolemia,Cardiovascular,2015,50.0,84.0,5.0,9.0,2.0,,,28.0,3.0,1.0
+Repatha‡‡,Treatment of certain patients with high cholesterol,Hypercholesterolemia,Cardiovascular,2015,49.0,90.0,0.0,4.0,6.0,,,0.0,0.0,0.0
+Rexulti,Treatment of schizophrenia,Schizophrenia,Neurological,2015,37.0,63.0,24.0,7.0,6.0,,,1.0,0.0,0.0
+Rexulti,Treatment of major depressive disorder,Major Depressive Disorder,Other,2015,69.0,85.0,12.0,1.0,2.0,,,1.0,0.0,0.0
+Savaysa,Reduction of risk of venous thromboembolism (VTE) in patients with previous VTE,Venous Thromboembolism,Cardiovascular,2015,43.0,70.0,4.0,21.0,5.0,,,33.0,13.0,6.0
+Savaysa,Prevention of stroke in patients with atrial fibrillation,Stroke,Cardiovascular,2015,38.0,81.0,1.0,14.0,4.0,,,74.0,40.0,17.0
+Strensiq(^),"Treatment of perinatal, infantile and juvenile-onset hypophosphatasia (HPP)","Perinatal, Infantile And Juvenile-Onset Hypophosphatasia",Metabolic / Genetic,2015,52.0,81.0,0.0,9.0,10.0,,,0.0,0.0,0.0
+Strensiq(^^),"Treatment of perinatal, infantile and juvenile-onset hypophosphatasia (HPP)","Perinatal, Infantile And Juvenile-Onset Hypophosphatasia",Metabolic / Genetic,2015,50.0,95.0,0.0,0.0,5.0,,,0.0,0.0,0.0
+Tagrisso,Treatment of patients with advanced non-small cell lung cancer (NSCLC),Non-Small Cell Lung Cancer,Cancer,2015,68.0,36.0,1.0,60.0,3.0,,,45.0,13.0,4.0
+Tresiba*,To improve glucose control in adults with diabetes mellitus,Diabetes Mellitus,Metabolic / Genetic,2015,44.0,80.0,1.0,16.0,2.0,,,7.0,1.0,1.0
+Tresiba**,To improve glucose control in adults with diabetes mellitus,Diabetes Mellitus,Metabolic / Genetic,2015,44.0,70.0,7.0,21.0,2.0,,,24.0,3.0,1.0
+Unituxin,Treatment of children with high-risk neuroblastoma,Neuroblastoma,Cancer,2015,40.0,82.0,7.0,3.0,8.0,,,,,
+Uptravi,For the treatment of adults with pulmonary artery hypertension,Pulmonary Arterial Hypertension,Cardiovascular,2015,80.0,75.0,2.0,21.0,2.0,,,18.0,1.0,1.0
+Varubi,To prevent delayed phase chemotherapy-induced nausea and vomiting,Chemotherapy-Induced Nausea And Vomiting,Other,2015,60.0,75.0,2.0,14.0,9.0,,,26.0,5.0,1.0
+Veltassa,Treatment of hyperkalemia,Hyperkalemia,Cardiovascular,2015,39.0,99.0,1.0,1.0,1.0,,,61.0,21.0,4.0
+Viberzi,Treatment of irritable bowel syndrome with diarrhea,Irritable Bowel Syndrome With Diarrhea,Other,2015,66.0,86.0,12.0,1.0,2.0,,,10.0,6.0,1.0
+Vraylar,Treatment of schizophrenia,Schizophrenia,Neurological,2015,28.0,43.0,34.0,17.0,6.0,,,1.0,0.0,0.0
+Vraylar,Treatment of bipolar disorder,Bipolar Disorder,Neurological,2015,41.0,49.0,25.0,24.0,2.0,,,1.0,0.0,0.0
+Xuriden,Treatment of patients with hereditary orotic aciduria,Hereditary Orotic Aciduria,Metabolic / Genetic,2015,25.0,100.0,0.0,0.0,0.0,,,,,
+Yondelis,Treatment of certain types of advances tissue sarcoma,Soft Tissue Sarcoma,Cancer,2015,70.0,76.0,12.0,4.0,8.0,,,22.0,3.0,1.0
+Zurampic,For lowering uric acid levels in the blood of adult patients with gout,Gout,Metabolic / Genetic,2015,4.0,78.0,12.0,6.0,5.0,,,13.0,3.0,1.0
+Adlyxin§,treatment of type 2 diabetes mellitus,Type 2 Diabetes Mellitus,Metabolic / Genetic,2016,52.0,64.0,3.0,32.0,2.0,,,19.0,,
+Adlyxin§§,treatment of type 2 diabetes mellitus,Type 2 Diabetes Mellitus,Metabolic / Genetic,2016,31.0,75.0,4.0,13.0,8.0,,,34.0,,
+Anthim,For the treatment of inhalational anthrax,Inhalational Anthrax,Infectious Disease,2016,46.0,69.0,28.0,1.0,2.0,,,9.0,,
+Axumin,Detection of prostate cancer recurrence,Prostate Cancer Recurrence,Cancer,2016,0.0,31.0,4.0,1.0,64.0,,,66.0,,
+Briviact,Treatment of partial-onset seizures,Partial-Onset Seizures,Neurological,2016,49.0,74.0,3.0,12.0,11.0,,,2.0,,
+Cinquair,For the treatment of a specific type of severe asthma (called eosinophilic phenotype asthma),Eosinophilic Asthma,Immune / Inflammatory,2016,62.0,73.0,12.0,8.0,8.0,,,6.0,,
+Defitelio,Treatment of hepatic veno-occlusive disease (VOD),Hepatic Veno-Occlusive Disease,Other,2016,45.0,71.0,6.0,4.0,19.0,,,0.0,,
+Epclusa,"Treatment of chronic Hepatitis C virus genotypes 1, 2, 3, 4, 5 or 6 infection.","Chronic Hepatitis C Virus Genotypes 1, 2, 3, 4, 5 Or 6 Infection",Infectious Disease,2016,38.0,85.0,6.0,7.0,2.0,,,11.0,,
+Eucrisa,To treat mild to moderate eczema (atopic dermatitis) in patients two years of age and older,Mild To Moderate Eczema,Immune / Inflammatory,2016,56.0,61.0,28.0,5.0,6.0,,,0.0,,
+Exondys 51#,Treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 51 skipping,Duchenne Muscular Dystrophy,Neurological,2016,0.0,92.0,0.0,8.0,0.0,,,0.0,,
+Exondys 51##,Treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 51 skipping,Duchenne Muscular Dystrophy,Neurological,2016,0.0,100.0,0.0,0.0,0.0,,,0.0,,
+Lartruvo,Treatment of soft tissue sarcoma,Soft Tissue Sarcoma,Cancer,2016,56.0,86.0,8.0,3.0,2.0,,,32.0,,
+Netspot,For detection of a specific type of tumors called somatostatin receptor positive neuro-endocrine tumors (NETs),Neuroendocrine Tumors,Cancer,2016,52.0,,,,100.0,,,,,
+Nuplazid,Treatment of hallucinations and delusions in patients with Parkinson’s disease,Psychosis (Parkinson'S-Related),Neurological,2016,36.0,91.0,1.0,5.0,3.0,,,82.0,,
+Ocaliva,Treatment of primary biliary cholangitis in adults,Primary Biliary Cholangitis,Immune / Inflammatory,2016,91.0,94.0,1.0,1.0,3.0,,,19.0,,
+Rubraca,Treatment of women with certain type of advanced ovarian cancer,Ovarian Cancer,Cancer,2016,100.0,80.0,2.0,6.0,12.0,,,42.0,,
+Spinraza,Spinal muscular atrophy (SMA),Spinal Muscular Atrophy,Neurological,2016,55.0,86.0,2.0,6.0,6.0,,,0.0,,
+Taltz,Treatment of moderate to severe plaque psoriasis in adults,Moderate To Severe Plaque Psoriasis,Immune / Inflammatory,2016,32.0,93.0,2.0,4.0,1.0,,,7.0,,
+Tecentriq,Treatment of a type of bladder cancer called urothelial carcinoma,Urothelial Carcinoma,Cancer,2016,78.0,91.0,2.0,2.0,5.0,,,59.0,,
+Venclexta,Treatment of chronic lymphocytic leukemia (CLL),Chronic Lymphocytic Leukemia,Cancer,2016,31.0,94.0,3.0,1.0,3.0,,,58.0,,
+Xiidra,Treatment of the signs and symptoms of dry eye disease,Dry Eye Disease,Other,2016,76.0,85.0,9.0,4.0,2.0,,,37.0,,
+Zepatier,Treatment of chronic Hepatis C genotypes 1 or 4 infection,Chronic Hepatis C Genotypes 1 Or 4 Infection,Infectious Disease,2016,39.0,75.0,15.0,9.0,1.0,,,11.0,,
+Zinbryta,Treatment of relapsing forms of multiple sclerosis (MS),Relapsing Forms Of Multiple Sclerosis,Neurological,2016,67.0,91.0,1.0,3.0,5.0,,,0.0,,
+Zinplava,Decreasing the risk of Clostridium difficile infection recurrence,Clostridium Difficile Infection Recurrence,Infectious Disease,2016,57.0,85.0,5.0,8.0,2.0,,,62.0,,
+Aliqopa,Treatment of relapsed follicular lymphoma,Relapsed Follicular Lymphoma,Cancer,2017,54.0,83.0,0.0,9.0,8.0,6%,13%,48.0,,
+Alunbrig,Treatment of metastatic non-small cell lung cancer,Metastatic Non-Small Cell Lung Cancer,Cancer,2017,57.0,67.0,1.0,31.0,1.0,6%,NR,23.0,,
+Austedo,Treatment of chorea associated with Huntington’s disease,Chorea Associated With Huntington’S Disease,Neurological,2017,44.0,92.0,6.0,0.0,2.0,0%,93%,19.0,,
+Bavencio,Treatment of metastatic Merkel cell carcinoma,Metastatic Merkel Cell Carcinoma,Cancer,2017,26.0,92.0,0.0,3.0,5.0,6%,58%,75.0,,
+Baxdela,Treatment of acute bacterial skin and skin structure infection,Acute Bacterial Skin And Skin Structure Infection,Infectious Disease,2017,37.0,86.0,5.0,0.0,9.0,28%,52%,14.0,,
+Benznidazole,Treatment of Chagas disease,Chagas Disease,Infectious Disease,2017,46.0,,,,1.0,NR,0%,0.0,,
+Besponsa,Treatment of B-cell acute lymphocytic leukemia,B-Cell Acute Lymphocytic Leukemia,Cancer,2017,41.0,71.0,2.0,17.0,10.0,NR,47%,37.0,,
+Bevyxxa,Prevention of venous thromboembolism,Venous Thromboembolism,Cardiovascular,2017,54.0,93.0,2.0,1.0,5.0,11%,7%,90.0,,
+Brineura,Treatment of Batten disease,Batten Disease,Neurological,2017,63.0,96.0,0.0,4.0,0.0,4%,13%,0.0,,
+Calquence,Treatment of mantle cell lymphoma,Mantle Cell Lymphoma,Cancer,2017,20.0,74.0,3.0,0.0,23.0,3%,36%,65.0,,
+Dupixent,Treatment of atopic dermatitis,Atopic Dermatitis,Immune / Inflammatory,2017,42.0,67.0,6.0,24.0,3.0,4%,34%,4.0,,
+Emflaza,Treatment of Duchenne muscular dystrophy,Duchenne Muscular Dystrophy,Neurological,2017,0.0,94.0,0.0,1.0,5.0,NR,NR,0.0,,
+Fasenra,Treatment of eosinophilic asthma,Eosinophilic Asthma,Immune / Inflammatory,2017,63.0,80.0,3.0,12.0,5.0,20%,15%,13.0,,
+Giapreza,To increase blood pressure in septic or other distributive shock,Septic Shock,Cardiovascular,2017,39.0,80.0,10.0,4.0,6.0,5%,74%,48.0,,
+Hemlibra,To prevent or reduce bleeding in patients with hemophilia A,Hemophilia A,Other,2017,0.0,56.0,11.0,26.0,7.0,12%,28%,3.0,,
+Idhifa,Treatment of relapsed acute myelogenous leukemia,Relapsed Acute Myelogenous Leukemia,Cancer,2017,49.0,77.0,6.0,1.0,17.0,9%,83%,60.0,,
+Imfinzi,Treatment of urothelial carcinoma,Urothelial Carcinoma,Cancer,2017,28.0,64.0,3.0,20.0,13.0,NR,49%,62.0,,
+Ingrezza,Treatment of tardive dyskinesia,Tardive Dyskinesia,Neurological,2017,42.0,57.0,39.0,1.0,4.0,28%,100%,18.0,,
+Kevzara,Treatment of rheumatoid arthritis,Rheumatoid Arthritis,Immune / Inflammatory,2017,82.0,81.0,3.0,6.0,10.0,39%,14%,13.0,,
+Kisqali,"Treatment of HR-positive, HER2-negative breast cancer","Hr-Positive, Her2-Negative Breast Cancer",Cancer,2017,100.0,82.0,3.0,8.0,7.0,10%,32%,44.0,,
+Macrilen,Diagnosis of adult growth hormone deficiency,Adult Growth Hormone Deficiency,Other,2017,42.0,86.0,2.0,3.0,9.0,NR,24%,2.0,,
+Mavyret,"Treatment of chronic hepatitis C genotypes 1, 2, 3, 4, 5 or 6","Chronic Hepatitis C Genotypes 1, 2, 3, 4, 5 Or 6",Infectious Disease,2017,44.0,80.0,6.0,12.0,2.0,9%,32%,14.0,,
+Mepsevii,Treatment of mucopolysaccharidosis VII,Mucopolysaccharidosis Vii,Metabolic / Genetic,2017,67.0,75.0,0.0,0.0,25.0,50%,100%,0.0,,
+Nerlynx,Treatment of HER2 positive breast cancer,Her2 Positive Breast Cancer,Cancer,2017,100.0,81.0,3.0,13.0,3.0,2%,32%,12.0,,
+Ocrevus,Treatment of multiple sclerosis,Multiple Sclerosis,Neurological,2017,61.0,92.0,4.0,0.0,4.0,11%,26%,0.0,,
+Ozempic,Treatment of type 2 diabetes mellitus,Type 2 Diabetes Mellitus,Metabolic / Genetic,2017,42.0,70.0,6.0,22.0,2.0,16%,28%,34.0,,
+Parsabiv,Treatment of secondary hyperparathyroidism in patients with chronic kidney disease on hemodialysis,Secondary Hyperparathyroidism,Metabolic / Genetic,2017,40.0,66.0,28.0,3.0,3.0,13%,52%,35.0,,
+Prevymis,Prevention of cytomegalovirus infection in allogeneic hematopoietic stem cell transplant,Cytomegalovirus Infection,Infectious Disease,2017,42.0,82.0,2.0,10.0,6.0,7%,36%,16.0,,
+Radicava,Treatment of amyotrophic lateral sclerosis,Amyotrophic Lateral Sclerosis,Neurological,2017,39.0,0.0,0.0,100.0,0.0,0%,0%,30.0,,
+Rhopressa,Treatment of open angle glaucoma,Open Angle Glaucoma,Other,2017,62.0,73.0,25.0,2.0,0.0,19%,100%,54.0,,
+Rydapt,Treatment of acute myelogenous leukemia,Acute Myelogenous Leukemia,Cancer,2017,56.0,38.0,2.0,2.0,58.0,2%,33%,0.0,,
+Rydapt,Treatment of systemic mastocytosis,Systemic Mastocytosis,Immune / Inflammatory,2017,36.0,93.0,1.0,0.0,6.0,3%,41%,45.0,,
+Siliq,Treatment of plaque psoriasis,Plaque Psoriasis,Immune / Inflammatory,2017,31.0,91.0,3.0,3.0,3.0,NR,22%,6.0,,
+Solosec,Treatment of bacterial vaginosis,Bacterial Vaginosis,Infectious Disease,2017,100.0,46.0,50.0,1.0,3.0,15%,100%,0.0,,
+Steglatro,Treatment of type 2 diabetes mellitus,Type 2 Diabetes Mellitus,Metabolic / Genetic,2017,48.0,77.0,5.0,13.0,5.0,24%,28%,26.0,,
+Symproic,Treatment of opioid-induced constipation,Opioid-Induced Constipation,Other,2017,62.0,80.0,18.0,1.0,1.0,8%,85%,15.0,,
+Tremfya,Treatment of plaque psoriasis,Plaque Psoriasis,Immune / Inflammatory,2017,29.0,82.0,2.0,14.0,2.0,6%,20%,5.0,,
+Trulance,Treatment of chronic idiopathic constipation,Chronic Idiopathic Constipation,Other,2017,79.0,72.0,23.0,3.0,2.0,41%,98%,11.0,,
+Tymlos,Treatment of postmenopausal osteoporosis,Postmenopausal Osteoporosis,Metabolic / Genetic,2017,100.0,80.0,3.0,16.0,1.0,24%,2%,81.0,,
+Vabomere,Treatment of complicated urinary tract infection,Complicated Urinary Tract Infection,Infectious Disease,2017,66.0,93.0,1.0,2.0,4.0,8%,3%,35.0,,
+Verzenio,"Treatment of HR-positive, HER2-negative breast cancer","Hr-Positive, Her2-Negative Breast Cancer",Cancer,2017,100.0,61.0,2.0,27.0,10.0,12%,19%,36.0,,
+Vosevi,"Treatment of hepatitis C genotypes 1, 2, 3, 4, 5 or 6","Hepatitis C Genotypes 1, 2, 3, 4, 5 Or 6",Infectious Disease,2017,23.0,84.0,12.0,2.0,2.0,7%,57%,16.0,,
+Vyzulta,Treatment of glaucoma,Glaucoma,Other,2017,58.0,74.0,24.0,1.0,1.0,12%,91%,52.0,,
+Xadago,Treatment of Parkinson’s disease,Parkinson’S Disease,Neurological,2017,33.0,41.0,1.0,59.0,0.0,2%,8%,38.0,,
+Xepi,Treatment of impetigo,Impetigo,Infectious Disease,2017,44.0,53.0,34.0,4.0,9.0,17%,23%,3.0,,
+Xermelo,Treatment of carcinoid syndrome diarrhea,Carcinoid Syndrome Diarrhea,Other,2017,50.0,90.0,1.0,0.0,9.0,0%,32%,49.0,,
+Zejula,Treatment of ovarian cancer,Ovarian Cancer,Cancer,2017,100.0,87.0,1.0,3.0,9.0,3%,70%,35.0,,
+Aimovig,Preventive treatment of migraine in adults,Migraine,Neurological,2018,85.0,91.0,7.0,1.0,1.0,7%,,45.0,,
+Akynzeo,Prevention of the nausea and vomiting that happens right away or later in adults receiving certain anticancer medicines (chemotherapy),Chemotherapy-Induced Nausea And Vomiting,Cancer,2018,40.0,100.0,1.0,1.0,1.0,Not reported,,32.0,,
+Azedra,Treatment of pheochromocytomas or paragangliomas,Pheochromocytomas Or Paragangliomas,Other,2018,42.0,75.0,19.0,6.0,0.0,1.10%,,16.0,,
+Biktarvy,Treatment of human immunodeficiency virus 1 (HIV-1) infection in adults.,Human Immunodeficiency Virus 1,Infectious Disease,2018,13.0,63.0,29.0,3.0,4.0,21%,65%,2.0,,
+Braftovi,Treatment of melanoma (a type of skin cancer) when used with another drug binimetinib,Melanoma,Cancer,2018,41.0,91.0,0.0,3.0,6.0,9%,,29.0,,
+Crysvita,For the treatment of X-linked hypophosphatemia,X-Linked Hypophosphatemia,Metabolic / Genetic,2018,60.0,83.0,3.0,11.0,3.0,8%,,,,
+Doptelet,Treatment of adults with low platelet count,Immune Thrombocytopenia,Other,2018,34.0,60.0,2.0,33.0,5.0,17.70%,,25.0,,
+Epidiolex,Treatment of seizures in two rare and severe forms of epilepsy.,Epilepsy,Neurological,2018,46.0,86.0,4.0,2.0,8.0,2%,,0.0,,
+Erleada,Treatment of prostate cancer that has not spread to other parts of the body (non-metastatic),Prostate Cancer,Cancer,2018,0.0,66.0,6.0,12.0,16.0,1.20%,,89.0,,
+Ilumya,For the treatment of moderate to severe plaque psoriasis,Moderate To Severe Plaque Psoriasis,Immune / Inflammatory,2018,29.0,80.0,3.0,14.0,3.0,9%,,9.0,,
+Krintafel,"Prevention of malaria relapse caused by the parasite, Plasmodium vivax",Malaria,Infectious Disease,2018,25.0,2.0,11.0,19.0,68.0,70%,,2.0,,
+Lokelma,Treatment of hyperkalemia in adults,Hyperkalemia,Cardiovascular,2018,41.0,85.0,12.0,2.0,1.0,33%,,57.0,,
+Lucemyra,For the treatment of symptoms associated with opioid withdrawal during abrupt opioid discontinuation.,Opioid Withdrawal,Other,2018,28.0,67.0,22.0,1.0,11.0,17%,,1.0,,
+Lutathera,For the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs),Neuroendocrine Tumors,Cancer,2018,49.0,83.0,4.0,1.0,13.0,3%,,51.0,,
+Mektovi,Treatment of  melanoma (a type of skin cancer)  when used with another drug encorafenib.,Melanoma,Cancer,2018,41.0,91.0,0.0,3.0,6.0,9%,,29.0,,
+Moxidectin,Treatment of onchocerciasis in patients 12 years of age and older,Onchocerciasis,Infectious Disease,2018,36.0,0.0,100.0,0.0,0.0,0%,,9.1,,
+Mulpleta,Treatment of adults with low platelet count,Immune Thrombocytopenia,Other,2018,41.0,50.0,1.0,47.0,3.0,7.90%,,37.0,,
+Olumiant,Treatment of adult patients with rheumatoid arthritis (RA) whose disease was not well controlled using RA medications called Tumor Necrosis Factor (TNF) antagonists,Rheumatoid Arthritis,Cancer,2018,80.0,67.0,3.0,25.0,5.0,24.90%,,17.8,,
+Omegaven,Parenteral nutrition-associated cholestasis (PNAC),Parenteral Nutrition-Associated Cholestasis,Other,2018,42.0,63.0,12.0,4.0,21.0,20%,,,,
+Orilissa,Treatment of moderate to severe pain associated with endometriosis,Endometriosis,Other,2018,100.0,88.0,9.0,1.0,2.0,14.70%,,0.0,,
+Palynziq,Lowering the blood levels of phenylalanine in adults with phenylketonuria (PKU),Phenylketonuria,Metabolic / Genetic,2018,50.0,98.0,1.0,0.0,1.0,2.50%,,0.0,,
+Poteligeo,Treatment of  adults with mycosis fungoides or Sézary syndrome,Mycosis Fungoides / Sézary Syndrome,Other,2018,42.0,70.0,10.0,5.0,15.0,4%,,49.0,,
+Symdeko,For the treatment of cystic fibrosis,Cystic Fibrosis,Other,2018,50.0,97.0,1.0,1.0,2.0,2.90%,,,,
+Tavalisse,Treatment of  adults with low platelet count due to chronic immune thrombocytopenia (ITP),Immune Thrombocytopenia,Immune / Inflammatory,2018,61.0,93.0,3.0,3.0,1.0,3%,,26.0,,
+Tibsovo,Treatment of adults with acute myeloid leukemia (AML) that have a mutation in a gene called IDH1 and whose disease has come back or has not improved after previous treatment(s),Acute Myeloid Leukemia,Cancer,2018,50.0,63.0,6.0,3.0,28.0,5%,,63.0,,
+Tpoxx,Treatment of smallpox disease,Smallpox Disease,Infectious Disease,2018,59.0,69.0,28.0,1.0,2.0,11%,,10.0,,
+Trogarzo,Treatment of human immunodeficiency virus 1 (HIV-1) infection in adults.,Human Immunodeficiency Virus 1,Infectious Disease,2018,15.0,55.0,32.0,10.0,3.0,25%,,5.0,,
+Zemdri,Treatment of adults who have a complicated urinary tract infection,Complicated Urinary Tract Infection,Infectious Disease,2018,53.0,100.0,0.0,0.0,1.0,1%,,46.0,,
