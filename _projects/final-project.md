@@ -3,6 +3,11 @@ name: Race and Representation in Clinical Drug Trials
 tools: [Python, Altair, Jekyll]
 image: assets/pngs/contextual1.png
 description: An interactive data journalism article examining racial and demographic disparities in FDA clinical drug trial participation (2015–2018).
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 
 # Race and Representation in Clinical Drug Trials
