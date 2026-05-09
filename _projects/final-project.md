@@ -1,5 +1,5 @@
 ---
-name: Who Gets Left Out? Race and Representation in Clinical Drug Trials
+name: Race and Representation in Clinical Drug Trials
 tools: [Python, Altair, Jekyll]
 image: assets/pngs/cancer_trials.png
 description: An interactive data journalism article examining racial and demographic disparities in FDA clinical drug trial participation from 2015 to 2018.
@@ -10,23 +10,23 @@ custom_js:
   - justcharts
 ---
 
-# Who Gets Left Out? Race and Representation in Clinical Drug Trials
+# Race and Representation in Clinical Drug Trials
 
 **Authors: Aaliyah Ali, Roqaya Elmenshawy, Livia Lin, Noor Esily**
 
 ---
 
-## The Promise of a New Drug — And Who It's Tested On
+## FDA: Development of New Drugs and Clinical Trials 
 
-When the U.S. Food and Drug Administration (FDA) approves a new drug, it is making a guarantee to the public: this medicine is safe and effective. But safe and effective *for whom*? Every drug approval is based on data collected from clinical trials — carefully controlled studies where real patients take an experimental drug and researchers measure the results. If the patients enrolled in those trials do not look like the people who will eventually take the drug, the results may not apply equally to everyone.
+When the U.S. Food and Drug Administration (FDA) approves a new drug, it is making a guarantee to the public, which states that this medicine is safe and effective. However, the important caveat here lies in who exactly the drug was intedned to be safe and effective for. Drug approvals stem from the data collected from clinical trials, which are carefully monitored studies where real patients take an experimental drug and researchers measure the results. Thus, if the patients in the trial do not represent the general population who may actually take those drugs, then perhaps the results of these trals may not apply equally to everyone.
 
-Between January 2015 and mid-August 2018, the FDA approved 155 new drugs and compiled demographic snapshots for each — recording what percentage of trial participants were White, Black, Asian, women, or over the age of 65. ProPublica, an investigative news organization, compiled all of these snapshots into a single dataset and used it to investigate racial representation in cancer drug trials. Our analysis expands that investigation across all disease categories — from cancer to infectious disease to cardiovascular conditions — revealing a systematic pattern of underrepresentation that is worst precisely where the stakes are highest.
+Between January 2015 and mid-August 2018, the FDA approved 155 new drugs and compiled demographic snapshots for each, which included a recording of what percentage of trial participants were White, Black, Asian, women, or over the age of 65. ProPublica, which is an investigative news organization, compiled all of this information into a single dataset and for the purpose of investigating racial representation in drug trials. Our analysis builds upon that premise to look at all disease categories in order to highlight systemic underreprsentation across racial demographic factors. 
 
 ---
 
 ## The Interactive Dashboard
 
-The dashboard below lets you explore the full picture yourself. Use the **dropdown menu** to switch between demographic groups — Black participants, White participants, Asian participants, Women, and patients aged 65 and older. The **top bar chart** shows the average participation rate for the selected demographic broken down by disease category. **Click any bar** to filter the histogram below and see how individual drugs within that category are distributed. **Double-click** to reset back to all categories.
+The dashboard below lets you explore the full picture of the data yourself. You can use the **dropdown menu** to switch between demographic groups — Black participants, White participants, Asian participants, Women, and patients aged 65 and older. The **top bar chart** shows the average participation rate for the selected demographic broken down by disease category. **Click any bar** to filter the histogram below and see how individual drugs within that category are distributed. **Double-click** to reset back to all categories.
 
 <vegachart schema-url="{{ site.baseurl }}/interactive-dashboard.json" style="width: 100%"></vegachart>
 
@@ -39,9 +39,9 @@ A few patterns worth exploring:
 
 ---
 
-## Cancer: Where the Gap Is Most Dangerous
+## Cancer Trials: A Key Gap
 
-Of all the disparities in this dataset, the one in cancer drug trials is the most troubling. The chart below compares cancer incidence rates by race over the same 2015–2018 window using data from the National Cancer Institute's SEER program. Black Americans have the highest cancer incidence rate of any group — yet they are nearly absent from the trials used to prove that cancer drugs work.
+Of all the disparities across trials in this dataset, the one in cancer drug trials is quite large. The chart below compares cancer incidence rates by race over the same 2015–2018 window using data from the National Cancer Institute's SEER program. Black Americans have the highest cancer incidence rate of any group, but  they are nearly absent from the trials used to prove that these very cancer drugs work.
 
 <vegachart schema-url="{{ site.baseurl }}/contextviz1.json" style="width: 100%"></vegachart>
 
@@ -57,21 +57,17 @@ When normalized to compare directly against trial participation, the gap becomes
 
 ---
 
-## A Drug-by-Drug Look
+## Deeper Dive: Black Participant Representation Across Cancer Trials
 
-The dot plot below shows every individual FDA-approved cancer drug from this period, sorted by the percentage of Black participants in its trial. Each dot is one drug. The clustering near zero is unmistakable — the vast majority of cancer drugs were approved on the basis of trials where Black patients represented less than 5% of participants. Several drugs were approved with effectively zero Black participants recorded.
+The dot plot below shows every individual FDA-approved cancer drug from this period, sorted by the percentage of Black participants in its trial. Each dot is one drug. The clustering near zero indicates that the vast majority of cancer drugs were approved on the basis of trials where Black patients represented less than 5% of participants. Additionally, several drugs were approved with effectively zero Black participants recorded.
 
 <vegachart schema-url="{{ site.baseurl }}/extracredit1.json" style="width: 100%"></vegachart>
 
 ---
 
-## Why This Matters
+## The Importance Of This Analysis
 
-Clinical trials are not just a technical step in the drug approval process — they are the evidentiary foundation for every prescription a doctor writes. When a physician tells a Black patient with lung cancer that a particular drug has a 40% response rate, that number was calculated almost entirely from trials where people who look like that patient were barely present. We do not know if the true response rate for Black patients is higher or lower. We do not know if the side effect profile differs. We simply do not have the data, because those patients were not in the room when the data was collected.
-
-Cancer biology is not race-neutral. Certain cancers — like triple-negative breast cancer — disproportionately affect Black women and respond differently to treatment than the forms of breast cancer more common in White women. If clinical trials for breast cancer drugs enroll 75% White participants and 3% Black participants, the approved drug may be optimized for a biology that does not represent the patients who need it most. This is not a hypothetical concern — researchers have documented differences in drug metabolism, tumor biology, and treatment response across racial groups that make diverse trial enrollment a scientific necessity, not just an equity aspiration.
-
-The FDA has taken steps in recent years to encourage more diverse trial enrollment, including issuing guidance documents on diversity action plans for clinical trials. But as this dataset shows, meaningful progress had not yet materialized during the 2015–2018 period. Closing this gap requires active effort from pharmaceutical companies, trial investigators, the FDA, and the communities themselves — including addressing well-documented barriers like geographic access to trial sites, historical mistrust of the medical establishment among Black Americans, and eligibility criteria that inadvertently screen out more diverse patient populations. The data makes clear that this is not a problem solving itself on its own.
+add 3 paragraphs here
 
 ---
 
@@ -95,13 +91,13 @@ The FDA has taken steps in recent years to encourage more diverse trial enrollme
 ## Analysis Notebooks & Data
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
-  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/python_notebooks/01_data_cleaning.ipynb" class="btn btn-outline-dark">
+  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/01_data_cleaning.ipynb" class="btn btn-outline-dark">
     Data Cleaning Notebook
   </a>
-  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/python_notebooks/fp-part3.ipynb" class="btn btn-outline-dark">
+  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/fp-part3.ipynb" class="btn btn-outline-dark">
     Analysis & Visualization Notebook
   </a>
-  <a href="https://raw.githubusercontent.com/aaliyahali/aaliyahali.github.io/main/assets/json/clinical_trials_cleaned.csv" class="btn btn-outline-dark">
+  <a href="https://raw.githubusercontent.com/aaliyahali/aaliyahali.github.io/main/
     Cleaned Dataset (CSV)
   </a>
 </div>
