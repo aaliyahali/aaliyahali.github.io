@@ -28,7 +28,7 @@ Between January 2015 and mid-August 2018, the FDA approved 155 new drugs and com
 
 The dashboard below lets you explore the full picture yourself. Use the **dropdown menu** to switch between demographic groups — Black participants, White participants, Asian participants, Women, and patients aged 65 and older. The **top bar chart** shows the average participation rate for the selected demographic broken down by disease category. **Click any bar** to filter the histogram below and see how individual drugs within that category are distributed. **Double-click** to reset back to all categories.
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/interactive-dashboard.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/interactive-dashboard.json" style="width: 100%"></vegachart>
 
 A few patterns worth exploring:
 
@@ -43,7 +43,7 @@ A few patterns worth exploring:
 
 Of all the disparities in this dataset, the one in cancer drug trials is the most troubling. The chart below compares cancer incidence rates by race over the same 2015–2018 window using data from the National Cancer Institute's SEER program. Black Americans have the highest cancer incidence rate of any group — yet they are nearly absent from the trials used to prove that cancer drugs work.
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/contextviz1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/contextviz1.json" style="width: 100%"></vegachart>
 
 *Source: National Cancer Institute, SEER Cancer Statistics Explorer. [seer.cancer.gov](https://seer.cancer.gov/statistics-network/explorer/)*
 
@@ -51,7 +51,7 @@ This chart shows cancer incidence rates per 100,000 people by race from 2015 to 
 
 When normalized to compare directly against trial participation, the gap becomes even clearer. The chart below compares each group's share of U.S. cancer cases against their share of cancer drug trial participants. Black Americans account for roughly 37% of cancer cases among these three racial groups but only about 3% of cancer trial participants — an over ten-fold disproportion.
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/contextviz2.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/json/contextviz2.json" style="width: 100%"></vegachart>
 
 *Source: NCI SEER 2015–2018 (cancer incidence); ProPublica/FDA Drug Trials Snapshots (trial participation).*
 
@@ -61,7 +61,7 @@ When normalized to compare directly against trial participation, the gap becomes
 
 The dot plot below shows every individual FDA-approved cancer drug from this period, sorted by the percentage of Black participants in its trial. Each dot is one drug. The clustering near zero is unmistakable — the vast majority of cancer drugs were approved on the basis of trials where Black patients represented less than 5% of participants. Several drugs were approved with effectively zero Black participants recorded.
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/extracredit1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/json/extracredit1.json" style="width: 100%"></vegachart>
 
 ---
 
