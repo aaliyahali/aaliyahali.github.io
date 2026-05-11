@@ -91,13 +91,13 @@ The dot plot below shows every individual FDA-approved cancer drug from this per
 ## Analysis Notebooks & Data
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
-  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/01_data_cleaning.ipynb" class="btn btn-outline-dark">
+  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/preprocess.ipynb" class="btn btn-outline-dark">
     Data Cleaning Notebook
   </a>
   <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/fp-part3.ipynb" class="btn btn-outline-dark">
     Analysis & Visualization Notebook
   </a>
-  <a href="https://raw.githubusercontent.com/aaliyahali/aaliyahali.github.io/main/aaliyahali.github.io/clinical_trials_cleaned.csv" class="btn btn-outline-dark">
+  <a href="https://github.com/aaliyahali/aaliyahali.github.io/blob/main/clinical_trials_cleaned.csv" class="btn btn-outline-dark">
     Cleaned Dataset
   </a>
 </div>
