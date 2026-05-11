@@ -67,7 +67,7 @@ The dot plot below shows every individual FDA-approved cancer drug from this per
 
 ## The Importance Of This Analysis
 
-- add a conclusion paragraph here - roqaya ?
+This analysis is important because clinical trials directly influence the medications and treatments that millions of people rely on every day. If certain racial or ethnic groups are underrepresented in these trials, researchers may have less confidence that treatments will work equally well across all populations. The visualizations in this project reveal that participation gaps still exist in many disease categories, especially within cancer drug trials, where Black and Hispanic participants are often represented at lower rates compared to their real-world disease burden. By examining these disparities through interactive visualizations, this project helps make healthcare inequities more visible to the public and encourages conversations about fairness, accessibility, and trust in medical research. Increasing diversity in clinical trials is essential for improving healthcare outcomes, reducing bias in medicine, and ensuring that future treatments are effective and safe for everyone.
 
 ---
 
